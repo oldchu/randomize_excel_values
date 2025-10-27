@@ -1,0 +1,38 @@
+# Виртуальное окружение Python
+venv/
+env/
+.venv/
+.env/
+
+# Исходные файлы Excel
+src/
+
+# Обработанные файлы Excel
+output/
+
+# Резервные копии файлов
+backup/
+
+# Файлы Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Файлы IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
+
+# Временные файлы
+*.tmp
+*.temp
